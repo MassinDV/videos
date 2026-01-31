@@ -1,0 +1,11 @@
+{
+  "radio_name": "2my",
+  "video_source": "uploads\\70df47a9_2m_1.mp4",
+  "audio_source": "https://stream.zeno.fm/vqzasnxok3vvv",
+  "created": "2026-01-31",
+  "files": {
+    "master_playlist": "2my_master.m3u8",
+    "video_playlist": "2my_video.m3u8",
+    "audio_playlist": "2my_audio.m3u8"
+  }
+}
